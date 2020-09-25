@@ -2,12 +2,13 @@
 **Problem Statement**::
 
 Mike and johns are the employee of a famous Australian company named as woodworth and the company give them task to build an attractive dashboard of the sales from the year 2016 to 2017 in the different states of Australia.
-![Alt text](https://github.com/Er-Vishal-Kathpalia/Tableau_Dashboard/blob/master/Picture1.png "Optional title")
 
 # Outcome and Result of analysis
 The Raw data contains the n number of raw of data containing the date, year , postal code, country, state, manager name, category, buyer name and the sales of the country within the year 2015 to 2018 and the August Data file contains the data of month of august. 
 The company give task to Mike and johns to build an attractive dashboard having different filters and containing the charts like Map chart, Heatmap chart, Area Chart, line chart, Scatter Plot and Pie chart.
 Data available to us are as follow::
+
+![Alt text](https://github.com/Er-Vishal-Kathpalia/Tableau_Dashboard/blob/master/Picture1.png "Optional title")
 
 # Charts and visuals used
 
