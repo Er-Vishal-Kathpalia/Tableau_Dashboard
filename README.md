@@ -2,7 +2,7 @@
 **Problem Statement**::
 
 Mike and johns are the employee of a famous Australian company named as woodworth and the company give them task to build an attractive dashboard of the sales from the year 2016 to 2017 in the different states of Australia.
-![Alt text]( "Optional title")
+![Alt text](https://github.com/Er-Vishal-Kathpalia/Tableau_Dashboard/blob/master/Picture1.png "Optional title")
 
 # Outcome and Result of analysis
 The Raw data contains the n number of raw of data containing the date, year , postal code, country, state, manager name, category, buyer name and the sales of the country within the year 2015 to 2018 and the August Data file contains the data of month of august. 
