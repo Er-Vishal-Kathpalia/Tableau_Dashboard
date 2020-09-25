@@ -1,5 +1,6 @@
 # Tableau_Dashboard
-Problem Statement::
+**Problem Statement**::
+
 Mike and johns are the employee of a famous Australian company named as woodworth and the company give them task to build an attractive dashboard of the sales from the year 2016 to 2017 in the different states of Australia.
 
 # Outcome and Result of analysis
@@ -7,7 +8,7 @@ The Raw data contains the n number of raw of data containing the date, year , po
 The company give task to Mike and johns to build an attractive dashboard having different filters and containing the charts like Map chart, Heatmap chart, Area Chart, line chart, Scatter Plot and Pie chart.
 Data available to us are as follow::
 
-Charts and visuals used
+# Charts and visuals used
 
 1. Line Chart:: A line graph (also known as a line plot or line chart) is a graph which uses lines to connect individual data points that display quantitative values over a specified time interval.  
 In this line chart with the sales as per month in the column are shown. The two line charts are divided on the basis of their chain as fashion direct or Next Look.                      
@@ -33,6 +34,7 @@ Dashboard can be defined as a data visualization tool that displays the current 
 The Big fashion Group sales dynamic dashboard contains the different information of the sales of data explain above.
 The Dashboard contain the five filters of category, financial year, state, manager name, chain based and five different charts including line chart, map chart, heatmap chart, pie chart, scatterplot and area chart.
 
-Video link (Summary)::
+## Video link (Summary)::
+'''
 https://youtu.be/jaedLWTw2Tc
-
+'''
