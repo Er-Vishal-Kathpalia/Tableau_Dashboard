@@ -35,6 +35,6 @@ The Big fashion Group sales dynamic dashboard contains the different information
 The Dashboard contain the five filters of category, financial year, state, manager name, chain based and five different charts including line chart, map chart, heatmap chart, pie chart, scatterplot and area chart.
 
 ## Video link (Summary)::
-'''
+```
 https://youtu.be/jaedLWTw2Tc
-'''
+```
